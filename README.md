@@ -96,6 +96,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=c9a96e)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=c9a96e)
 
+**`⟨ DevOps & Tools ⟩`**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=c9a96e&labelColor=0d1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=c9a96e&labelColor=0d1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=c9a96e&labelColor=0d1117)
+
 **`⟨ Coursework ⟩`**
 
 ```
